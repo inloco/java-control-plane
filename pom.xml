@@ -26,7 +26,7 @@
         <assertj.version>3.12.2</assertj.version>
         <auto-value.version>1.6.3</auto-value.version>
         <awaitility.version>3.1.6</awaitility.version>
-        <checkstyle.version>8.18</checkstyle.version>
+        <checkstyle.version>8.29</checkstyle.version>
         <grpc.version>1.36.0</grpc.version>
         <grpc-kotlin.version>1.1.0</grpc-kotlin.version><!-- Keep the gRPC Kotlin version in sync with grpc-java -->
         <guava.version>30.0-android</guava.version><!-- Keep the Guava version in sync with grpc-java -->
